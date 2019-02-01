@@ -1,0 +1,8 @@
+Sites de redes de supermercados:
+    Carnes:
+        - Prix - https://www.superprix.com.br/carnes-e-pescados/bovinas
+        - Zona Sul - https://www.zonasul.com.br/produtos-em-promocao/carnes-peixes
+        - Princesa - http://www.princesasupermercados.com.br/subsecao/147/carnes-e-peixes-congelados
+        - Pão de Açúcar - https://www.paodeacucar.com/secoes/C4226/bovinos?qt=12&ftr=facetSubShelf_ss:4226_Bovinos&p=0&gt=list
+        - Big Market - https://bigmarket-copacabana-3.convemstore.com/products/carnes-ovos
+        - Ultra - https://www.redeultramercado.com.br/laticinios/frios-fatiados.html
